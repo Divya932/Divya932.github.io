@@ -3,24 +3,28 @@
 
   <region category="Rich Tradition">
     <title lang="en">Explore Royalty!</title>
-    
     <city>Jaipur</city>
     <state>Rajasthan</state>
     <country>India</country>
     <price>Rs.800 per night</price>
+  </region>
     
+  <region category="Rich Tradition">
+    <title lang="en">Explore Royalty!</title>  
     <city>Udaipur</city>
     <state>Rajasthan</state>
     <country>India</country>
     <price>Rs.800 per night</price>
-    
+  </region>
+ 
+  <region category="Rich Tradition">
+    <title lang="en">Explore Royalty!</title> 
     <city>Delhi</city>
     <state>Delhi</state>
     <country>India</country>
     <price>Rs.600 per night</price>
-    
     <desc>Experience the Indian Royalty.</desc>
-  </region>
+</region>
 
   <region category="Hills and Mountains">
     <title lang="en">Breathe the magnificence!</title>
@@ -29,17 +33,22 @@
     <state>Kashmir</state>
     <country>India</country>
     <price>Rs.900 per night</price>
+  </region>
     
+  <region category="Hills and Mountains">
+    <title lang="en">Breathe the magnificence!</title>
     <city>Shimla</city>
     <state>Himachal Pradesh</state>
     <country>India</country>
     <price>Rs.700 per night</price>
+  </region>
     
+ <region category="Hills and Mountains">
+    <title lang="en">Breathe the magnificence!</title>
     <city>Manali</city>
     <state>Himachal Pradesh</state>
     <country>India</country>
     <price>Rs.700 per night</price>
-    
     <desc>Experience the rich Pahadi culture and cuisine</desc>
   </region>
 
