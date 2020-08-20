@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<travelguide>
+
+  <city category="Western India">
+    <title lang="en">Explore Jaipur!</title>
+    <country>India</country>
+    <state>Rajasthan</state>
+    <price>Rs.800 per night</price>
+    <desc>Experience the Indian Royalty.</desc>
+  </city>
+
+  <city category="Northern India">
+    <title lang="en">Explore Srinagar!</title>
+    <country>India</country>
+    <state>Kashmir</state>
+    <price>Rs.900 per night</price>
+    <desc>Experience the rich Kashmiri culture and cuisine</desc>
+  </city>
+
+</travelguide>
