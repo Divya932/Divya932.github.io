@@ -1,20 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <travelguide>
 
-  <city category="Western India">
-    <title lang="en">Explore Jaipur!</title>
-    <country>India</country>
+  <region category="Rich Tradition">
+    <title lang="en">Explore Royalty!</title>
+    
+    <city>Jaipur</city>
     <state>Rajasthan</state>
-    <price>Rs.800 per night</price>
-    <desc>Experience the Indian Royalty.</desc>
-  </city>
-
-  <city category="Northern India">
-    <title lang="en">Explore Srinagar!</title>
     <country>India</country>
+    <price>Rs.800 per night</price>
+    
+    <city>Udaipur</city>
+    <state>Rajasthan</state>
+    <country>India</country>
+    <price>Rs.800 per night</price>
+    
+    <city>Delhi</city>
+    <state>Delhi</state>
+    <country>India</country>
+    <price>Rs.600 per night</price>
+    
+    <desc>Experience the Indian Royalty.</desc>
+  </region>
+
+  <region category="Hills and Mountains">
+    <title lang="en">Breathe the magnificence!</title>
+    
+    <city>Srinagar</city>
     <state>Kashmir</state>
+    <country>India</country>
     <price>Rs.900 per night</price>
-    <desc>Experience the rich Kashmiri culture and cuisine</desc>
-  </city>
+    
+    <city>Shimla</city>
+    <state>Himachal Pradesh</state>
+    <country>India</country>
+    <price>Rs.700 per night</price>
+    
+    <city>Manali</city>
+    <state>Himachal Pradesh</state>
+    <country>India</country>
+    <price>Rs.700 per night</price>
+    
+    <desc>Experience the rich Pahadi culture and cuisine</desc>
+  </region>
 
 </travelguide>
