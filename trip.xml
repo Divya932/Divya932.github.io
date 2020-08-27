@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE trip [
+<!ELEMENT trip (to,from,heading,body)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+]>
+<trip>
+<from>Shimla</from>
+<to>Manali</to>
+<heading>Reminder</heading>
+<body>Don't forget this weekend!</body>
+</trip>

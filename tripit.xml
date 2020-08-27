@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE note SYSTEM "mytrip.dtd">
+<trip>
+<from>Varsova</from>
+<to>Barbeque</to>
+<heading>Reminder</heading>
+<body>Don't forget this month end!</body>
+</trip>
