@@ -6,7 +6,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:template match="/">
   <html>
   <body>
-    <div class="bgded" style="background-image:url('background.jpg');">
+    <div class="bgded" style="background-image:url('imgs/last.jpg');">
   </div>
   <xsl:apply-templates/>
   </body>
