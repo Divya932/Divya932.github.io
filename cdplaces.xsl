@@ -58,7 +58,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </html>
   </xsl:template>
   
-  <xsl:template match="cd">
+  <xsl:template match="/">
   <h2>Places you must visit in 2021!</h2>
   <table border="1">
     <tr bgcolor="#9acd32">
