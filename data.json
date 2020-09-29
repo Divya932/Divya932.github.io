@@ -1,0 +1,16 @@
+[ 
+	    { 
+	    	"Place": "Tawang", 
+	    	"Country": "Bhutan", 
+	    	"Budget": "$500" 
+	    }, 
+	    { 
+	    	"Place": "Kashmir", 
+	    	"Country": "India", 
+	    	"Budget": "Rs. 10,000" 
+	    }, 
+	    { 
+	    	"Place": "Himachal Pradesh", 
+	    	"Country": "India" 
+	    } 
+]
