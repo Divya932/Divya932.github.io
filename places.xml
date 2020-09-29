@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<places>
+  <cd>
+    <where>South Island</where>
+    <country>New Zealand</country>
+    <visit>Fiordland National Park</visit>
+    <explore>Mount John Observatory</explore>
+    <price>10.90</price>
+    <year>1985</year>
+  </cd>
+  <cd>
+    <where>Paris</where>
+    <country>France</country>
+    <visit>Eiffel Tower</visit>
+    <explore>Musée du Louvre</explore>
+    <price>9.90</price>
+    <year>1988</year>
+  </cd>
+  <cd>
+    <where>Bora Bora</where>
+    <country>French Polynesia</country>
+    <visit>Matira Beach</visit>
+    <explore>Mount Otemanu</explore>
+    <price>9.90</price>
+    <year>1982</year>
+  </cd>
+  <cd>
+    <where>Glacier National Park</where>
+    <country>USA</country>
+    <visit>Montana park</visit>
+    <explore>Going-to-the-Sun Road</explore>
+    <price>10.20</price>
+    <year>1990</year>
+  </cd>
+  <cd>
+    <where>Kasol</where>
+    <country>India</country>
+    <visit>Manikaran</visit>
+    <explore>Kheerganga</explore>
+    <price>9.90</price>
+    <year>1997</year>
+  </cd>
+  <cd>
+    <where>Pahalgam</where>
+    <country>India</country>
+    <visit>Mini Switzerland</visit>
+    <explore>Aru Valley</explore>
+    <price>10.90</price>
+    <year>1998</year>
+  </cd>
+</places>
